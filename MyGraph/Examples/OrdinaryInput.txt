@@ -1,0 +1,12 @@
+﻿false
+false
+a|a|b|c
+b|a
+c|a
+d
+e|f|g|i
+f|e
+g|e
+h|j
+i|e
+j|h

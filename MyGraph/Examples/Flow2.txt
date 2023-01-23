@@ -1,0 +1,6 @@
+﻿true
+true
+a|c|1|d|1
+b|c|1|d|1
+c|d|1
+d
